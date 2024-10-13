@@ -26,18 +26,12 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
+    name: "Coming Soon..",
+    description: "Coming Soon..",
     date: "2022-06-20",
     demoLink: "https://artgalleryonline.example.com",
   },
-  {
-    id: 3,
-    name: "MindfulMoments",
-    description: "Meditation and mindfulness app",
-    date: "2022-02-14",
-    demoLink: "https://mindfulmoments.example.com",
-  },
+  
 ];
 
 export const BtnList = [
