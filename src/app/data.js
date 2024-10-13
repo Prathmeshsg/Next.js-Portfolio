@@ -28,7 +28,7 @@ export const projectsData = [
     id: 2,
     name: "Coming Soon..",
     description: "Coming Soon..",
-    date: "2022-06-20",
+    date: "...",
     demoLink: "https://artgalleryonline.example.com",
   },
   
