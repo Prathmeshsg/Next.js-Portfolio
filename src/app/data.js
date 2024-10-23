@@ -25,13 +25,19 @@ export const projectsData = [
     demoLink: "https://github.com/Prathmeshsg/2D-portfolio-kaboom",
   },
   {
+    id: 3,
+    name: "3D Portfolio",
+    description: "Interact with my portfolio in a 3D Magic World",
+    date: "2024-10-13",
+    demoLink: "https://github.com/Prathmeshsg/Next.js-Portfolio",
+  },
+  {
     id: 2,
     name: "Coming Soon..",
     description: "Coming Soon..",
     date: "...",
     demoLink: "https://artgalleryonline.example.com",
   },
-  
 ];
 
 export const BtnList = [
