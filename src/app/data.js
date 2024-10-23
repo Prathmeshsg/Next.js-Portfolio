@@ -22,7 +22,7 @@ export const projectsData = [
     name: "2D Portfolio",
     description: "Interact with my portfolio in a simulator",
     date: "2024-02-25",
-    demoLink: "https://github.com/Shadowgit98/2D-portfolio-kaboom",
+    demoLink: "https://github.com/Prathmeshsg/2D-portfolio-kaboom",
   },
   {
     id: 2,
@@ -41,7 +41,7 @@ export const BtnList = [
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
-    link: "https://github.com/Shadowgit98",
+    link: "https://github.com/Prathmeshsg",
     icon: "github",
     newTab: true,
   },
