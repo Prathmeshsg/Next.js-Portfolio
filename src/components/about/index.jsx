@@ -50,7 +50,7 @@ const AboutDetails = () => {
           <img
             className="w-full h-auto"
             src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api/top-langs?username=Shadowgit98&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false`}
-            alt="CodeBucks"
+            alt="Prathmesh"
             loading="lazy"
           />
         </ItemLayout>
@@ -59,7 +59,7 @@ const AboutDetails = () => {
           <img
             className="w-full h-auto"
             src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api?username=Shadowgit98&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false`}
-            alt="CodeBucks"
+            alt="Prathmesh"
             loading="lazy"
           />
         </ItemLayout>
@@ -68,7 +68,7 @@ const AboutDetails = () => {
           <img
             className="w-full h-auto"
             src={`https://skillicons.dev/icons?i=appwrite,bootstrap,css,docker,figma,firebase,git,github,graphql,html,js,jquery,mongodb,mysql,netlify,nextjs,nodejs,npm,postgres,react,redux,sass,supabase,tailwind,threejs,vercel,vite,vscode`}
-            alt="CodeBucks"
+            alt="Prathmesh"
             loading="lazy"
           />
         </ItemLayout>
@@ -77,7 +77,7 @@ const AboutDetails = () => {
           <img
             className="w-full h-auto"
             src={`${process.env.NEXT_PUBLIC_GITHUB_STREAK_STATS_URL}?user=Shadowgit98&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B`}
-            alt="CodeBucks"
+            alt="Prathmesh"
             loading="lazy"
           />
         </ItemLayout>
@@ -91,7 +91,7 @@ const AboutDetails = () => {
             <img
               className="w-full h-auto"
               src={`${process.env.NEXT_PUBLIC_GITHUB_STATS_URL}/api/pin/?username=Shadowgit98&repo=StickyNotes&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
-              alt="CodeBucks"
+              alt="Prathmesh"
               loading="lazy"
             />
           </Link>
