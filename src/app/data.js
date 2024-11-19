@@ -65,7 +65,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/CV developer.pdf",
+    link: "https://github.com/Prathmeshsg/Resume/blob/main/Prathmesh%20Gandhale.pdf",
     icon: "resume",
     newTab: true,
   },
