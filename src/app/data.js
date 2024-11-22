@@ -20,7 +20,7 @@ export const projectsData = [
   {
     id: 1,
     name: "Book-store",
-    description: "A full-stack online bookstore where you can explore, save, and purchase books across various genres.",
+    description: "A full-stack online bookstore with MERN stack.",
     date: "2024-07-14",
     demoLink: "https://github.com/Prathmeshsg/Book-store",
   },
